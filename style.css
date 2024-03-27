@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: black;
+}
+
+#main{
+    height: 20em;
+    width: 28em;
+    background-color: white;
+    border-radius: 7px;
+    margin-inline:auto;
+    margin-block: 6em;
+    padding: 6px;
+}
+
+#div {
+    margin-left: 20px;
+    position: absolute;
+    height: 15em;
+    width: 300px ;
+    margin-top: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* border: 1px solid black; */
+    line-height: 40px;
+}
+
+#btns {
+    display: flex;
+    justify-content: space-between;
+}
+
+#btns button {
+    margin-top: 150px;
+    position: relative;
+    background: none;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+}
