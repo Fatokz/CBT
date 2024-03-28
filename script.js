@@ -3,24 +3,24 @@ let index = 0
 
 let cbt = [
     {
-        question: "What is your fav food",
-        options: ['Rice', 'Beans', 'Yam', 'Spag'],
-        answer: "Beans"
+        question: "Question: What is your fav food",
+        options: ['Options: Rice', 'Beans', 'Yam', 'Spag'],
+        answer: "Answer: Beans"
     },
     {
-        question: "What is your fav course",
-        options: ['HTML', 'CSS', 'JS', 'BOOTSTRAP'],
-        answer: "JS"
+        question: "Question: What is your fav course",
+        options: ['Options: HTML', 'CSS', 'JS', 'BOOTSTRAP'],
+        answer: "Answer: JS"
     },
     {
-        question: "What is your fav food",
-        options: ['HTML', 'CSS', 'JS', 'BOOTSTRAP'],
-        answer: "JS"
+        question: "Question: What is your fav food",
+        options: ['Options: HTML', 'CSS', 'JS', 'BOOTSTRAP'],
+        answer: "Answer: JS"
     },
     {
-        question: "What is your fav food",
-        options: ['HTML', 'CSS', 'JS', 'BOOTSTRAP'],
-        answer: "JS"
+        question: "Question: What is your fav food",
+        options: ['Options: HTML', 'CSS', 'JS', 'BOOTSTRAP'],
+        answer: "Answer: JS"
     },
 ]
 
